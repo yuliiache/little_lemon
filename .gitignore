@@ -1,0 +1,14 @@
+# Python cache and compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment folders
+venv/
+.env
+
+# Django specific
+*.log
+db.sqlite3
+
+# OS-specific files
+.DS_Store
